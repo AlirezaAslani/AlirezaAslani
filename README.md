@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 - 👯 I’m looking to collaborate on open-source projects related to big data and real-time processing.
 - 📫 How to reach me: [Your Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/alireza-aslani/)
 
-## 🛠️ Skills
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 - **Programming Languages**: 
   - Java

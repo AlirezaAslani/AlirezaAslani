@@ -19,10 +19,25 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
   - Apache Flink
   - Apache Kafka
 
-- **Tools & Frameworks**:
-  - Git
-  - Maven
-  - Docker
+
+### 🛠️ Technologies & Tools
+
+- **Programming Languages:**  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+- **Big Data & Streaming:**  
+  ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+  ![Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
+
+- **Frameworks:**  
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+- **DevOps & Tools:**  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
 
 
 

@@ -41,9 +41,12 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 
 
 
-## 🔗 Connect with Me
+<h2> Communication <img src = "https://media1.giphy.com/media/L3u0T2DZ3D55srukju/giphy.gif?cid=790b761106d62b9a7df85177771ae7ffd901ea3b6cdbaaa1&rid=giphy.gif&ct=s" width = 32px>  </h2>
 
-- [LinkedIn](https://www.linkedin.com/in/alireza-aslani-9a87baab/)
-- [Gmail](alireza.a.eng@gmail.com)
+<p align="center">
+     <a href="https://wa.me/+989128102293"><img alt="WhatsApp"  title="WhatsApp" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg"   width="100" height="50" /></a>
+  <a href="mailto:alireza.a.eng@gmail.com"><img title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"   width="100" height="50" /></a>
+  <a href="https://www.linkedin.com/in/alireza-aslani-9a87baab/"><img title="Linkedin" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"   width="100" height="50" /></a>
+</p>
 
 
